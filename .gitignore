@@ -1,0 +1,7 @@
+*.exe
+*.o
+a.out
+*.save
+__pycache__/
+.ipynb_checkpoints/
+.env
